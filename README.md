@@ -1,0 +1,2 @@
+# djagotodo
+django todo app
